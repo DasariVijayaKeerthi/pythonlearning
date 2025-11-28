@@ -1,0 +1,5 @@
+user_input=input("enter a string value: ").strip()
+#print(f"formatted input is {user_input}.")
+# user_in=user_input.strip()
+sen=user_input.capitalize()
+print(f"formatted input is {sen}.")
